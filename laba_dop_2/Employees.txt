@@ -1,0 +1,5 @@
+gamedev MaxRate 1
+proga MaxRate 4
+verstka MaxRate 2
+Pani Deni Uruvi 2 gamedev
+Solo Ekater Vadim 1 proga
